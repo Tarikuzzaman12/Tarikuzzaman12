@@ -61,20 +61,25 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/tarikuzzaman-tuhin-29a53132b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<div align="left" style="display: flex; gap: 20px; align-items: center; font-size: 16px;">
+  <a href="https://www.linkedin.com/in/tarikuzzaman-tuhin-29a53132b/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #0A66C2;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" height="24" alt="LinkedIn" />
+    <span style="margin-left: 8px;">LinkedIn</span>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100069936865122" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100069936865122" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #4267B2;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="24" height="24" alt="Facebook" />
+    <span style="margin-left: 8px;">Facebook</span>
   </a>
-  <a href="https://x.com/Tarikuzzaman98" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://x.com/Tarikuzzaman98" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #1DA1F2;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="24" height="24" alt="Twitter" />
+    <span style="margin-left: 8px;">Twitter</span>
   </a>
-  <a href="https://wa.me/+8801865966225" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://wa.me/+8801865966225" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #25D366;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="24" height="24" alt="WhatsApp" />
+    <span style="margin-left: 8px;">WhatsApp</span>
   </a>
 </div>
+
 
 ###
 
