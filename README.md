@@ -42,11 +42,11 @@
 
 ###
 
-<h3 align="left">🚀 Current Overview 🚀</h3>
+<h3 align="center">🚀 Current Overview 🚀</h3>
 
 ###
 
-<p align="left">
+<p align="center">
   🔭 I’m working in - <a href="https://visa-compass-pass-auth.web.app/" target="_blank">VisaCompass</a><br>
   🌱 I’m learning - Next.js<br>
   🔍 I’m looking - To collaborate on open source projects<br>
@@ -57,10 +57,10 @@
 
 ###
 
-<h3 align="left">📨 Reach me out 📨</h3>
+<h3 align="center">📨 Reach me out 📨</h3>
 
 ###
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/tarikuzzaman-tuhin-29a53132b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">⚒️ My Skills ⚒️</h3>
+<h3 align="center">⚒️ My Skills ⚒️</h3>
 
 ###
 
