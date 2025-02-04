@@ -42,11 +42,11 @@
 
 ###
 
-<h3 align="center">🚀 Current Overview 🚀</h3>
+<h3 align="left">🚀 Current Overview 🚀</h3>
 
 ###
 
-<p align="center">
+<p align="left">
   🔭 I’m working in - <a href="https://visa-compass-pass-auth.web.app/" target="_blank">VisaCompass</a><br>
   🌱 I’m learning - Next.js<br>
   🔍 I’m looking - To collaborate on open source projects<br>
@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="center">📨 Reach me out 📨</h3>
+<h3 align="left">📨 Reach me out 📨</h3>
 
 ###
 <div align="center">
