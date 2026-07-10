@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://i.postimg.cc/j5JBMy9b/Banner-Image.png"  />
+  <img height="250" src="https://i.postimg.cc/g283fDpw/Blue-And-Green-Professional-Technology-Linked-In-Banner.png"  />
 </div>
 
 ###
