@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">A passionate Front-End Developer from Bangladesh</h4>
+<h4 align="center">A passionate Full-Stack Developer from Bangladesh</h4>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">This is TARIKUZZAMAN TUHIN,<br>A Jr. Front-End Web Developer passionate about creating impactful digital experiences.<br><br>I specialize in:<br><br>HTML5, CSS3, React.js, Tailwind CSS, JavaScript<br>✨ I strive to build unique websites that exceed client expectations.<br>🤝 Committed to collaboration, transparency, and delivering exceptional results.</p>
+<p align="left">This is TARIKUZZAMAN TUHIN,<br>A Full-Stack Web Developer passionate about creating impactful digital experiences.<br><br>I specialize in:<br><br>HTML5, CSS3, React.js,Next.js,MongoDB,Typescript,PostgreSql Tailwind CSS, JavaScript<br>✨ I strive to build unique websites that exceed client expectations.<br>🤝 Committed to collaboration, transparency, and delivering exceptional results.</p>
 
 ###
 
